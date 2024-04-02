@@ -12,7 +12,7 @@
 - <b>Graduate Course Projects 2023-2024</b>
   - [Security Dashboard w/ Metrics and KPIs](https://github.com/ajsimon1818/UNF-Graduate-Projects/blob/main/Security%20Dashboard.pdf)
   - [Healthcare Database Appointment Scheduler (Java/SQL)](https://github.com/ajsimon1818/UNF-Graduate-Projects/blob/main/Main.java)
-  - [Work Order Generator Program (Java)](https://github.com/ajsimon1818/UNF-Graduate-Projects/tree/main/Work%20Order): Reads in customer, employee, and ticket data to generate ticket work orders. Tickets are efficiently delegated to available employees.
+  - [Work Order Generator Program (Java)](https://github.com/ajsimon1818/UNF-Graduate-Projects/tree/main/Work%20Order)
   - [CSV File Input/Output Program w/ Data Processing](https://github.com/ajsimon1818/UNF-Graduate-Projects/blob/main/Project2_N00695969.java)
   - [Number Statistics Program: Options Menu w/ Ordering, Even/Odd, Primes (Java)](https://github.com/ajsimon1818/UNF-Graduate-Projects/blob/main/Project1_n00695969.java)
   - [Tree Structure Reader: Preorder, Postorder, Inorder, BFS Traversal (Java)](https://github.com/ajsimon1818/UNF-Graduate-Projects/blob/main/assign3.java)
