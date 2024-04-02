@@ -13,7 +13,7 @@
   - [example]
  
 - <b>Graduate Research Papers 2023-2024</b>
-  - [example]
+  - [Benchmark Analysis of AWS vs GCP Cloud Platforms](https://github.com/ajsimon1818/Fullstack-Projects/blob/main/Benchmark%20and%20Analysis%20of%20AWS%20and%20GCP%20Cloud%20Platforms.pdf)
 
 - <b>Fullstack Cyber Security Boot Camp (UNF) 2020</b>
   - [Blue Team Midterm: WireShark, Python Scripting](https://github.com/joshmadakor1/Algorithms-Practice)
