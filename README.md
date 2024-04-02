@@ -13,10 +13,10 @@
   - [example]
  
 - <b>Graduate Research Papers 2023-2024</b>
-  - [The Machine Learning Approach to Digital Forensics: A Review of Literature](https://github.com/ajsimon1818/Fullstack-Projects/blob/main/The%20Machine%20Learning%20Approach%20to%20Digital%20Forensics%20A%20Review%20of%20Literature.pdf)
-  - [Benchmark Analysis of AWS vs GCP Cloud Platforms](https://github.com/ajsimon1818/Fullstack-Projects/blob/main/Benchmark%20and%20Analysis%20of%20AWS%20and%20GCP%20Cloud%20Platforms.pdf)
-  - [Bolstering the Human Firewall: Evaluating the Impact of User Training in Mitigating Phishing Attacks](https://github.com/ajsimon1818/Fullstack-Projects/blob/main/Bolstering_the_Human_Firewall__Evaluating_the_Impact_of_User_Training_in_Mitigating_Phishing_Attacks.pdf)
-  - [Versatile Web App Implementation for NFC NDEF Tags](https://github.com/ajsimon1818/Fullstack-Projects/blob/main/NFC%20Report.pdf)
+  - [The Machine Learning Approach to Digital Forensics: A Review of Literature](https://github.com/ajsimon1818/UNF-Graduate-Papers/blob/main/The%20Machine%20Learning%20Approach%20to%20Digital%20Forensics%20A%20Review%20of%20Literature.pdf)
+  - [Benchmark Analysis of AWS vs GCP Cloud Platforms](https://github.com/ajsimon1818/UNF-Graduate-Papers/blob/main/Benchmark%20and%20Analysis%20of%20AWS%20and%20GCP%20Cloud%20Platforms.pdf)
+  - [Bolstering the Human Firewall: Evaluating the Impact of User Training in Mitigating Phishing Attacks](https://github.com/ajsimon1818/UNF-Graduate-Papers/blob/main/Bolstering_the_Human_Firewall__Evaluating_the_Impact_of_User_Training_in_Mitigating_Phishing_Attacks.pdf)
+  - [Versatile Web App Implementation for NFC NDEF Tags](https://github.com/ajsimon1818/UNF-Graduate-Papers/blob/main/NFC%20Report.pdf)
 
 - <b>Fullstack Cyber Security Boot Camp (UNF) 2020</b>
   - [Blue Team Midterm: WireShark, Python Scripting](https://github.com/joshmadakor1/Algorithms-Practice)
