@@ -10,7 +10,8 @@
   - [Firewalls]()
 
 - <b>Graduate Course Projects 2023-2024</b>
-  - [Mock Security Dashboard with Metrics and KPIs](https://github.com/ajsimon1818/UNF-Graduate-Projects/blob/main/Security%20Dashboard.pdf)
+  - [Security Dashboard with Metrics and KPIs](https://github.com/ajsimon1818/UNF-Graduate-Projects/blob/main/Security%20Dashboard.pdf)
+  - [Healthcare Database Appointment Scheduler (Java/SQL)](https://github.com/ajsimon1818/UNF-Graduate-Projects/blob/main/Main.java)
   - [Tree Structure Reader: Preorder, Postorder, Inorder, BFS Traversal (Java)](https://github.com/ajsimon1818/UNF-Graduate-Projects/blob/main/assign3.java)
  
 - <b>Graduate Research Papers 2023-2024</b>
