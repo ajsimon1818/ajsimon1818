@@ -10,7 +10,8 @@
   - [Firewalls]()
 
 - <b>Graduate Course Projects 2023-2024</b>
-  - [example]
+  - [Mock Security Dashboard with Metrics and KPIs](https://github.com/ajsimon1818/UNF-Graduate-Projects/blob/main/Security%20Dashboard.pdf)
+  - [Tree Structure Reader: Preorder, Postorder, Inorder, BFS Traversal (Java)](https://github.com/ajsimon1818/UNF-Graduate-Projects/blob/main/assign3.java)
  
 - <b>Graduate Research Papers 2023-2024</b>
   - [The Machine Learning Approach to Digital Forensics: A Review of Literature](https://github.com/ajsimon1818/UNF-Graduate-Papers/blob/main/The%20Machine%20Learning%20Approach%20to%20Digital%20Forensics%20A%20Review%20of%20Literature.pdf)
