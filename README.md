@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects/Labs/Papers: </h2>
 
 - <b>SEED Cyber Security Lab Reports (2024)</b>
-  - [Public Key Infrastructure]()
+  - [Public Key Infrastructure](https://github.com/ajsimon1818/SEED-Cyber-Security-Labs/blob/main/PKI%20Lab%20Report.pdf)
   - [SQL Injections]()
   - [TCP/IP Attacks]()
   - [Packet Sniffing/Spoofing]()
