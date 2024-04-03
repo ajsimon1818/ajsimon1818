@@ -28,7 +28,7 @@
   - [Blue Team Midterm: WireShark, Python Scripting](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Blue Team Final: NIST Framework, Snort Rules, Python Scripting]()
   - [Security Essentials CTF: Cookies, Encryption, Hashing, Networks, Python]()
-  - [Advanced Persistent Threat Presentation Segment](https://www.youtube.com/watch?v=d2kA157Sk_U)
+  - [Advanced Persistent Threat Presentation Segment (Video)](https://www.youtube.com/watch?v=d2kA157Sk_U)
 
 <h2> 🤳 Connect with me:</h2>
 
