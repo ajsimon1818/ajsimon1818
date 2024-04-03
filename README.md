@@ -25,9 +25,9 @@
   - [Versatile Web App Implementation for NFC NDEF Tags](https://github.com/ajsimon1818/UNF-Graduate-Papers/blob/main/NFC%20Report.pdf)
 
 - <b>Fullstack Cyber Security Boot Camp (2020)</b>
-  - [Blue Team Midterm: WireShark, Python Scripting](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Blue Team Final: NIST Framework, Snort Rules, Python Scripting]()
-  - [Security Essentials CTF: Cookies, Encryption, Hashing, Networks, Python]()
+  - [Blue Team Midterm: WireShark, Python Scripting](https://github.com/ajsimon1818/Fullstack-Projects/blob/main/Blue%20Team%20Midterm.pdf)
+  - [Blue Team Final: NIST Framework, Snort Rules, Python Scripting](https://github.com/ajsimon1818/Fullstack-Projects/blob/main/Andrew%20Simon-%20Blue%20Team%20Final.pdf)
+  - [Security Essentials CTF: Cookies, Encryption, Hashing, Networks, Python](https://github.com/ajsimon1818/Fullstack-Projects/blob/main/Andrew_Simon_SECP.pdf)
   - [Advanced Persistent Threat Presentation Segment (Video)](https://www.youtube.com/watch?v=d2kA157Sk_U)
 
 <h2> 🤳 Connect with me:</h2>
