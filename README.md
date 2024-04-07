@@ -7,7 +7,7 @@
   - [SQL Injections]()
   - [TCP/IP Attacks]()
   - [Packet Sniffing/Spoofing]()
-  - [Firewalls]()
+  - [Firewalls](https://github.com/ajsimon1818/SEED-Cyber-Security-Labs/blob/main/Firewall%20Exploration/SEED%20LAB%205%20(Firewall).pdf)
 
 - <b>Graduate Course Projects (2022-2024)</b>
   - [Security Dashboard w/ Metrics and KPIs](https://github.com/ajsimon1818/UNF-Graduate-Projects/blob/main/Security%20Dashboard.pdf)
