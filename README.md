@@ -31,9 +31,10 @@
   - [Advanced Persistent Threat Presentation Segment (Video)](https://www.youtube.com/watch?v=d2kA157Sk_U)
 
 <h2> 🤳 Connect with me:</h2>
-
+  
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[linkedin]: https://www.linkedin.com/in/andrew-s1mon/ 
 
-[linkedin]: https://www.linkedin.com/in/andrew-s1mon/
+<br/> - <b>Mobile Phone: (904) 536-7670 <br/>- Email: ajsimon1818@gmail.com</b>
 
