@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrew! <br/> Cyber Security Graduate Student</a> | Educator</a></h1>
+<h1>Hi, I'm Andrew! <br/> Cyber Security Graduate Student | Educator</h1>
 
 <h2>👨‍💻 Cyber Security Projects/Labs/Papers: </h2>
 
