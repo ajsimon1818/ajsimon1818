@@ -36,5 +36,5 @@
 
 [linkedin]: https://www.linkedin.com/in/andrew-s1mon/ 
 
-<br/> - <b>Mobile Phone: (904) 536-7670 <br/>- Email: ajsimon1818@gmail.com</b>
+<br/><b>Mobile Phone: (904) 536-7670 </b>
 
