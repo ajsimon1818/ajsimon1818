@@ -5,9 +5,10 @@
 - <b>SEED Cyber Security Lab Reports (2024)</b>
   - [Firewalls](https://github.com/ajsimon1818/SEED-Cyber-Security-Labs/blob/main/Firewall%20Exploration/SEED%20LAB%205%20(Firewall).pdf)
   - [Public Key Infrastructure](https://github.com/ajsimon1818/SEED-Cyber-Security-Labs/blob/main/PKI%20Lab%20Report.pdf)
-  - [SQL Injections (Coming Soon)]()
-  - [TCP/IP Attacks (Coming Soon)]()
-  - [Packet Sniffing/Spoofing (Coming Soon)]()
+  - [SQL Injections](https://github.com/ajsimon1818/SEED-Cyber-Security-Labs/blob/main/SQL%20Injection%20Lab%20Report.pdf)
+  - [TCP/IP Attacks](https://github.com/ajsimon1818/SEED-Cyber-Security-Labs/blob/main/TCP%20Lab%20Report.pdf)
+  - [Packet Sniffing/Spoofing](https://github.com/ajsimon1818/SEED-Cyber-Security-Labs/blob/main/Sniffing%20Spoofing%20Lab%20Report.pdf)
+  - [DNS Attacks (Coming Soon)]()
 
 - <b>Graduate Course Projects (2022-2024)</b>
   - [Security Dashboard w/ Metrics and KPIs](https://github.com/ajsimon1818/UNF-Graduate-Projects/blob/main/Security%20Dashboard.pdf)
